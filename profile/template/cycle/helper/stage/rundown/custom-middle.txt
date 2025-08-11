@@ -20,7 +20,7 @@
 ## ## yt-dlp
 ##
 
-#tool-util-yt-dlp-install
+tool-util-yt-dlp-install
 
 
 
@@ -29,4 +29,13 @@
 ## ## sublime-text
 ##
 
-#tool-text-editor-sublime-text-install
+tool-text-editor-sublime-text-install
+
+
+
+
+##
+## ## pacstall
+##
+
+admin-package-manager-pacstall-install
