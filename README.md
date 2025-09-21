@@ -132,5 +132,5 @@ make build
 | ---- | ------ |
 | [Debian / Xfce / Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |
 | [Debian / Xfce / Note](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
-| [Ubuntu / Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Ubuntu / Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Debian / Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Debian / Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
